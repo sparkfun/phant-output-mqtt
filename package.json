@@ -1,6 +1,6 @@
 {
   "name": "phant-output-mqtt",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "lib/phant-output-mqtt.js",
   "description": "mqtt output for phant",
   "homepage": "https://github.com/sparkfun/phant-output-mqtt",
